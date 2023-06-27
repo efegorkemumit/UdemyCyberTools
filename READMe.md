@@ -9,6 +9,21 @@
 
 <p>This project contains a collection of tools for ethical hackers.</p>
 
+
+-----------------------------------------------------------
+Built for the udemy course
+-----------------------------------------------------------
+
+
+
+
+Udemy  Course : 
+<a href="https://www.udemy.com/course/uygulamal-etik-hacker-kursu-pythonla-hacker-araclari-yazma/" target="_blank"> https://www.udemy.com/course/uygulamal-etik-hacker-kursu-pythonla-hacker-araclari-yazma/  </a>
+
+
+<img src="https://efegorkemumit.com/wp-content/uploads/2023/06/screen.png"/>
+
+
 <h2>Contents</h2>
 
 <p>Below is the list of tools included in this project:</p>
@@ -34,3 +49,8 @@
 </ul>
 
 <p>For detailed instructions on how to use these tools, please refer to the respective documentation files.</p>
+
+
+<img src="https://efegorkemumit.com/wp-content/uploads/2023/06/aaaa.png" style="width:100%" />
+
+
